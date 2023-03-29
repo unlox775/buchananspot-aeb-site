@@ -1,0 +1,4 @@
+AuthName "Buchanan Davis Private Information"
+AuthType Basic
+AuthUserFile /home/capnpcut/public_html/buchananspot.com/sites/AEB/res/.htpasswd
+Require valid-user
